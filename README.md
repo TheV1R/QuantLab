@@ -164,6 +164,26 @@ The project serves as a foundation for more advanced research in:
 * Portfolio Management
 * Machine Learning for Finance
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.jpeg)
+
+## Trade Signals
+
+![Trade Signals](screenshots/tradesignals.jpeg)
+
+## Portfolio Performance
+
+![Portfolio Growth](screenshots/portfoliogrowth.jpeg)
+
+## Strategy Comparison
+
+![Strategy Comparison](screenshots/strategyleaderboard.jpeg)
+
+## Parameter Optimization
+
+![Heatmap](screenshots/heatmap.jpeg)
+
 ---
 
 ## Author
