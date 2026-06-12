@@ -6,6 +6,12 @@ QuantLab is a modular quantitative research platform designed to develop, evalua
 
 The project replicates a simplified quantitative research workflow used by trading firms and hedge funds, including signal generation, backtesting, risk analysis, parameter optimization, and out-of-sample validation.
 
+## Live Dashboard
+
+🚀 Try QuantLab Live:
+
+[Launch QuantLab]https://vir1-quantlab.streamlit.app/
+
 ---
 
 ## Key Features
